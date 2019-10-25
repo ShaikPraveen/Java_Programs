@@ -1,0 +1,135 @@
+1.Swap Two Numbers
+====================
+    Swapping means interchanging two values, there are different ways to swap two numbers. Below are
+    1. Using third variable
+    2. Without using third variable
+    3. Using * and / operator
+    4. Using Bitwise operator
+    5. Using Single statement
+    
+2.Reverse Number
+=================
+    Reverse number means reverse of a given number, there are different ways to reverse a number. Below are
+    1. Using Logic
+    2. Using StringBuffer  Class
+    3. Using StringBuilder Class
+
+3.Reverse String
+=================
+    Reverse string means reverse of a given string, there are different ways to reverse a string. Below are
+    1. Using String Concatenation(+)
+    2. Using Char Array
+    3. Using StringBuffrer Class
+    
+4.PALLINDROME NUMBER
+=====================
+    Pallindrome number is a number that remains the same when its digits are reversed.
+    Ex: 16461, 121
+    
+5.PALLINDROME STRING
+=====================
+    Pallindrome string is a string that remains the same when its characters are reversed.
+    Ex: MADAM
+6.COUNT NUMBER OF DIGITS IN A NUMBER
+=====================================
+    Ex:- 123456 : 6 is output
+    
+7.COUNT NUMBER OF EVEN AND ODD DIGITS IN A GIVEN NUMBER
+========================================================
+   Ex: 145678
+   Even Digits : 3 Odd Digits : 3
+   
+8.SUM OF DIGITS IN A GIVEN NUMBER
+==================================
+Ex: 1234
+Sum = 10
+
+9.FIND LARGEST OF THREE NUMBERS
+================================
+    Two ways to handle this.
+    A. Using logic
+    B. Using Ternary operator
+    
+    Whta is Ternary operator
+    
+    int a=10; b=20;
+    Ex:- a>b?a:b
+    
+         1. If the condition is true, it will return  first value
+         2. If the condition is false, it will return second value
+         
+10.GENERATE FIBONACCI SERIES
+============================
+     A series of numbers in which each number(Fabonacci number) is the sum of the two preceding numbers.
+
+11.CHECK GIVEN NUMBER IS PRIME OR NOT
+======================================    
+   1. Natural Number > 1
+   2. Which has only 2 factors 1 and itself
+   
+   19 -> 1 and 19 -> Prime Number
+   28 -> 0,1, 2, 4, 7, 14, 28 -> Not a Prime Number
+   
+   Prime Numbers are : 2, 3, 5, 7, 11, 13, 17, ...
+   
+12. GENERATE RANDON NUMBERS & STRINGS
+=====================================
+   3 ways to generate random number and string
+   1. Using Random Class
+   2. Using Math Class
+   3. Using Apache commons-lang API
+
+13. FACTORIAL OF A NUMBER
+========================= 
+   A factorial is a function that multiplies a number by every number below it.
+
+    Example: 5! = 5 * 4 * 3 * 2 * 1 = 120
+             (or)
+             5! = 1 * 2 * 3 * 4 * 5 = 120
+             
+14.FIND SUM OF ELEMENTS OF IN ARRAY
+===================================
+ 1.Using Noormal for loop
+ 2.Using Enhanced for loop we can acheave it.
+ 
+15.PRINT EVEN AND ODD NUMBERS FROM AN ARRAY
+===========================================
+ 1.Using Noormal for loop
+ 2.Using Enhanced for loop we can acheave it.
+ 
+16.CHECK THE EQUALITY OF TWO ARRAYS
+===================================
+   1. Using Arrays Class
+   2. Using Logic
+   
+17.FIND MISSING NUMBER IN AN ARRAY
+==================================
+18.FIND MAXIMUM AND MINIMUN VALUES IN AN ARRAY
+==============================================
+19.FIND DUPLICATE ELEMENTS IN AN ARRAY
+======================================
+1.Using Logic
+2.Using HashSet
+
+20.SEARCH AN ELEMENT IN ARRAY(LINEAR SEARCH)
+===========================================
+21.SEARCH AN ELEMENT IN ARRAY(BINARY SEARCH)
+===========================================
+22.SORT ELEMENTS IN ARRAY(BUBBLE SORT)
+======================================
+23.SORT ELEMENTS IN ARRAY USING BUILT-IN METHODS
+================================================
+24.REMOVE JUNK & SPECIAL CHARACTERS IN A STRING
+===============================================
+25.REMOVE WHITE SPACES IN A STRING
+==================================
+26.COUNT OCCURANCES OF A CHARACTER IN A STRING
+==============================================
+27.COUNT WORDS IN A STRING
+==========================
+28.HOW TO REVERSE EACH WORD IN A STRING
+=======================================
+29.HOW TO READ DATA FROM TEXT FILE
+==================================
+30.HOW TO WRITE DATA INTO TEXT FILE
+===================================
